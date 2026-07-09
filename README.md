@@ -6,11 +6,8 @@ This repository contains the entire User Experience Design (UXD) process for the
 This app is focused on creating and joining "panoramas" (plans or outings).
 
 Team
-- Francisco Barrozo (f.barrozo02@ufromail.cl)
 - Lian Canio (l.canio02@ufromail.cl)
-- Leandro Matamoros (l.matamoros01@ufromail.cl)
 - Antonia Paredes (a.paredes03@ufromail.cl)
-- Joaquín Silva (j.silva23@ufromail.cl)
 
 # Index
 
@@ -61,12 +58,9 @@ To ensure user safety and trust, QFai incorporates an identity verification syst
 With this focus on **ease of use** and **social engagement**, QFai becomes more than just an event planner: it transforms into a **community hub for sharing experiences**.  
 
 ## 1.3 Team and roles
-- Francisco Barrozo --> Project Manager
-- Lian Canio --> Supporter / QA (Quality Assurance) Specialist
-- Leandro Matamoros --> Analyst / UX Researcher
-- Antonia Paredes --> Designer / Speaker
-- Joaquín Silva --> Designer / Speaker
 
+- Lian Canio --> Supporter / QA (Quality Assurance) Specialist/ Analyst
+- Antonia Paredes --> Designer / Speaker/ Project Manager
 
 # 2. UXD design process
 
